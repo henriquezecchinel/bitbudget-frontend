@@ -1,3 +1,13 @@
+# BitBudget ~ Frontend
+
+#### !! Work in progress !!
+
+## The progression of this project is temporarily halted due to a strategic realignment of priorities.
+
+Since this is initially a personal project, the application has been developed based on _'Ship First, Improve Later'_ concept, so the project can be used in a real-world scenario, and proper improvements can be implemented. Considering this, many things are not done properly, like the design of the pages, the code structure, the proper use of code standards, etc. These will be addressed in the future.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
